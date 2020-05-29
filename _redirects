@@ -1,0 +1,11 @@
+# dua page rewrite
+# /duas /surahs/duas.html 200
+
+# surah pages rewrite
+/:surah /surah.html?surah=:surah 200
+
+# ayah rewrite
+/:surah/:ayah /:surah#:ayah
+
+# ayah start & end rewrite
+/:surah/:ayah-:end /:surah#:ayah-:end

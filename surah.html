@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="en">
+   <head>
+      <script type="text/javascript"> var parameter = window.location.pathname.split('/').slice(1); var parameter_value = parameter[0]; if(parameter_value.match(/^-{0,1}\d+$/)) { var chapter_number = parseInt(parameter[0]); if(chapter_number < 1 || chapter_number > 114) window.location = "./"; } else window.location = "./"; </script>
+      <title>Quran WBW - Word By Word English Translation And Transliteration</title>
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+      <meta name="description" content="Learn The Holy Quran Through Word By Word English Translation And Transliteration">
+      <meta name="og:site_name" content="Quran WBW - Word By Word English Translation And Transliteration">
+      <meta name="og:title" content="Learn The Holy Quran Through Word By Word English Translation And Transliteration">
+      <meta name="og:image" content="assets/images/banner.png">
+      <meta name="og:url" content="">
+      <meta name="og:type" content="website">
+      <meta name="theme-color" content="#a98401"/>
+      <meta name="apple-mobile-web-app-status-bar-style" content="default">
+      <meta name="apple-mobile-web-app-capable" content="yes">
+      <link href="assets/images/apple-touch-icon.png" rel="apple-touch-icon">
+      <link href="assets/images/splashscreens/iphone5_splash.png" media="(device-width: 320px) and (device-height: 568px) and (-webkit-device-pixel-ratio: 2)" rel="apple-touch-startup-image" />
+      <link href="assets/images/splashscreens/iphone6_splash.png" media="(device-width: 375px) and (device-height: 667px) and (-webkit-device-pixel-ratio: 2)" rel="apple-touch-startup-image" />
+      <link href="assets/images/splashscreens/iphoneplus_splash.png" media="(device-width: 621px) and (device-height: 1104px) and (-webkit-device-pixel-ratio: 3)" rel="apple-touch-startup-image" />
+      <link href="assets/images/splashscreens/iphonex_splash.png" media="(device-width: 375px) and (device-height: 812px) and (-webkit-device-pixel-ratio: 3)" rel="apple-touch-startup-image" />
+      <link href="assets/images/splashscreens/iphonexr_splash.png" media="(device-width: 414px) and (device-height: 896px) and (-webkit-device-pixel-ratio: 2)" rel="apple-touch-startup-image" />
+      <link href="assets/images/splashscreens/iphonexsmax_splash.png" media="(device-width: 414px) and (device-height: 896px) and (-webkit-device-pixel-ratio: 3)" rel="apple-touch-startup-image" />
+      <link href="assets/images/splashscreens/ipad_splash.png" media="(device-width: 768px) and (device-height: 1024px) and (-webkit-device-pixel-ratio: 2)" rel="apple-touch-startup-image" />
+      <link href="assets/images/splashscreens/ipadpro1_splash.png" media="(device-width: 834px) and (device-height: 1112px) and (-webkit-device-pixel-ratio: 2)" rel="apple-touch-startup-image" />
+      <link href="assets/images/splashscreens/ipadpro3_splash.png" media="(device-width: 834px) and (device-height: 1194px) and (-webkit-device-pixel-ratio: 2)" rel="apple-touch-startup-image" />
+      <link href="assets/images/splashscreens/ipadpro2_splash.png" media="(device-width: 1024px) and (device-height: 1366px) and (-webkit-device-pixel-ratio: 2)" rel="apple-touch-startup-image" />
+      <link rel="preload" as="font" href="assets/fonts/IndoPak.woff2" type="font/woff2" crossorigin/>
+      <link rel="stylesheet" href="assets/css/style.css">
+      <link rel="dns-prefetch" href="https://quranwbw.github.io/audio-words-new/">
+      <link rel="manifest" href="assets/manifest.webmanifest">
+      <link rel="icon" type="image/x-icon" href="assets/images/favicon.ico" />
+   </head>
+   <body>
+      <noscript>
+         <style type="text/css">.container, .navbar, .loader { display:none; }</style>
+         <title>Quran WBW</title>
+         <h3>Sorry, but this website requires JavaScript to run. Please enable it and try again.</h3>
+      </noscript>
+      <div class="loader"></div>
+      <nav class="navbar navbar-expand-lg navbar-dark bg-gold fixed-top">
+         <div class="container">
+            <span class="navbar-brand" href="./">loading...</span><button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation"><span id="chevron-navbar-icon" class="chevron-down-nav"></span></button>
+            <div class="collapse navbar-collapse" id="navbarResponsive">
+               <ul class="navbar-nav ml-auto">
+                  <div class="navbar-link-div">
+                     <li class="nav-item"><a class="nav-link" href="./">Home</a></li>
+                     <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="chapterSelector" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Chapter </a>
+                        <div class="dropdown-menu" id="chapter-list" aria-labelledby="chapterSelector"></div>
+                     </li>
+                     <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="verseSelector" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Verse </a>
+                        <div class="dropdown-menu verse-selector" aria-labelledby="verseSelector"></div>
+                     </li>
+                     <li class="nav-item"><a class="nav-link" href="#" role="button" data-toggle="modal" data-target="#AboutModal">About </a></li>
+                     <li class="nav-item"><a class="nav-link" href="#" role="button" data-toggle="modal" data-target="#SettingsModal">Settings </a></li>
+                  </div>
+               </ul>
+            </div>
+         </div>
+         </div>
+      </nav>
+      <div class="modal fade bd-modal-lg" id="SettingsModal" tabindex="-1" role="dialog" aria-labelledby="SettingsModalCenter" aria-hidden="true">
+         <div class="modal-dialog modal-lg modal-dialog-centered" role="document">
+            <div class="modal-content">
+               <div class="modal-header">
+                  <h5 class="modal-title" id="SettingsModalCenter">Settings</h5>
+                  <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+               </div>
+               <div class="modal-body">
+                  <div class="container-fluid">
+                     <div class="col-12" style="display: flex;"><span class="sw sw-modal" style="margin-left: auto;"><span class="wa">الصَّمَدُ</span><span class="wl">l-ṣamadu</span><span class="wt">the Eternal the Absolute</span></span><span class="sw sw-modal" style="margin-right: auto;"><span class="wa">اللَّهُ</span><span class="wl">al-lahu</span><span class="wt">Allah</span></span></div>
+                     <div class="row">
+                        <div class="col-6 nav-settings-col">
+                           <div class="col nav-settings"><span class="n-s ar-font">Arabic </span></div>
+                           <div class="col nav-settings"><button type="button" class="btn btn-nav btn-sm" onclick="modify_font('wa', 'decrease')">Dec -</button><button type="button" class="btn btn-nav btn-sm" onclick="modify_font('wa', 'increase')">Inc +</button></div>
+                        </div>
+                        <div class="col-6 nav-settings-col">
+                           <div class="col nav-settings"><span class="n-s tl-font">Transliteration </span></div>
+                           <div class="col nav-settings"><button type="button" class="btn btn-nav btn-sm" onclick="modify_font('wl', 'decrease')">Dec -</button><button type="button" class="btn btn-nav btn-sm" onclick="modify_font('wl', 'increase')">Inc +</button></div>
+                        </div>
+                        <div class="col-6 nav-settings-col">
+                           <div class="col nav-settings"><span class="n-s tr-font">Translation </span></div>
+                           <div class="col nav-settings"><button type="button" class="btn btn-nav btn-sm" onclick="modify_font('wt', 'decrease')">Dec -</button><button type="button" class="btn btn-nav btn-sm" onclick="modify_font('wt', 'increase')">Inc +</button></div>
+                        </div>
+                        <div class="col-6 nav-settings-col">
+                           <div class="col nav-settings"><span class="n-s">Font (F)</span></div>
+                           <div class="col nav-settings"><button type="button" class="btn btn-nav btn-sm" id="font" onclick="toggle_text('font_type')">IndoPak</button></div>
+                        </div>
+                        <div class="col-6 nav-settings-col">
+                           <div class="col nav-settings"><span class="n-s">Theme (T)</span></div>
+                           <div class="col nav-settings"><button type="button" class="btn btn-nav btn-sm" id="theme_mode" onclick="toggle_theme_mode()">Light</button></div>
+                        </div>
+                        <div class="col-6 nav-settings-col">
+                           <div class="col nav-settings"><span class="n-s">Display (D)</span></div>
+                           <div class="col nav-settings"><button type="button" class="btn btn-nav btn-sm" id="display_mode" onclick="toggle_display_mode()">Word By Word</button></div>
+                        </div>
+                        <div class="col-6 nav-settings-col">
+                           <div class="col nav-settings"><span class="n-s">Reciter</span></div>
+                           <div class="col nav-settings"><button type="button" class="btn btn-nav btn-sm" id="reciter" onclick="toggle_reciter()">Mishary Rashid Alafasy</button></div>
+                        </div>
+                        <div class="col-6 nav-settings-col">
+                           <div class="col nav-settings"><span class="n-s">Auto-Scroll</span></div>
+                           <div class="col nav-settings"><button type="button" class="btn btn-nav btn-sm" id="auto_scroll" onclick="toggle_auto_scroll()">Yes</button></div>
+                        </div>
+                        <div class="col-6" style="padding-left: 15px; padding-top: 15px;">
+                           <div class="nav-settings offline-message"></div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               <div class="modal-footer"><button type="button" class="btn btn-secondary" id="reset-settings">Reset</button><button type="button" class="btn btn-secondary" data-dismiss="modal">Done</button></div>
+            </div>
+         </div>
+      </div>
+      <span id="modal-about-content">
+         <div class="modal fade bd-modal-lg" id="AboutModal" tabindex="-1" role="dialog" aria-labelledby="AboutModalCenter" aria-hidden="true">
+            <div class="modal-dialog modal-lg modal-dialog-centered" role="document" style="margin-bottom: 70px;">
+               <div class="modal-content">
+                  <div class="modal-header">
+                     <h5 class="modal-title" id="AboutModalCenter">About</h5>
+                     <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                  </div>
+                  <div class="modal-body modal-about-content">
+                     Quranwbw.com is a word-by-word Quran learning website where you can see the translation and transliteration for each word and also listen the audio for each word and each verse. <br><br>	Quranwbw.com wouldn't be possible without these amazing websites: 
+                     <ul>
+                        <li><a class="modal-about-link" target="_blank" rel="noreferrer" href="http://emuslim.com/Quran/Translation_English.asp">Dr. Shehnaz Shaikh</a> - for her amazing work on the word-by-word compilation.</li>
+                        <li><a class="modal-about-link" target="_blank" rel="noreferrer" href="https://quran.com">quran.com</a> - for their amazing API and word-by-word audio files.</li>
+                        <li><a class="modal-about-link" target="_blank" rel="noreferrer" href="http://tanzil.net">tanzil.net</a> - for their wonderful collection of Quranic resources.</li>
+                        <li><a class="modal-about-link" target="_blank" rel="noreferrer" href=">http://seventysixnine.com">seventysixnine.com</a> - for their initial words database.</li>
+                        <li><a class="modal-about-link" target="_blank" rel="noreferrer" href="http://everyayah.com">everyayah.com</a> & <a class="modal-about-link" href="https://qurancentral.com">qurancentral.com</a> - for their amazing collection of Quranic audios.</li>
+                     </ul>
+                     If you have any suggestions, or found a bug, or would like to contribute, then please contact me on my email at <a class="modal-about-link" href="mailto:quranwbw@gmail.com">quranwbw@gmail.com</a>. You can also find the words API for development at <a target="_blank" rel="noreferrer" href="https://api.quranwbw.com" class="modal-about-link">api.quranwbw.com</a>
+                  </div>
+                  <div class="modal-footer"><button type="button" class="btn btn-secondary" data-dismiss="modal">Done</button></div>
+               </div>
+            </div>
+         </div>
+      </span>
+      <div class="container">
+         <div class="row full-chapter">
+            <div class="col-12 text-center bismillah-div" style="display: none;"></div>
+            <div class="verses-block"></div>
+         </div>
+         <audio id="player"></audio>
+         <audio id="chapter-player"></audio>
+         <div class="bottom-nav" id="bottom-nav">
+            <div class="bottom-nav__inner">
+               <div class="bottom-nav__item bottom-nav__item--prevchapter" style='visibility: hidden;'><a class="chapter-nav-links" href=""><span class="bottom-nav-chapter"></span></a></div>
+               <div class="bottom-nav__item bottom-nav-chapterplayer" title="Click to play/pause"><span class="bottom-nav-chaptername"></span><span id="bottom-nav-chapterverse"></span></div>
+               <div class="bottom-nav__item bottom-nav__item--nextchapter" style='visibility: hidden;'><a class="chapter-nav-links" href=""><span class="bottom-nav-chapter"></span></a></div>
+            </div>
+         </div>
+      </div>
+      <script src="assets/js/bundle.js"></script><script async src="assets/js/main.js"></script>  
+   </body>
+</html>
