@@ -5,3 +5,6 @@
 This repo contains the v1.6 code for www.QuranWBW.com. Built with JavaScript. 
 
 </div>
+
+### License
+<a href="https://github.com/marwan/quranwbw.com/blob/master/LICENSE">MIT</a>
