@@ -1,0 +1,20 @@
+{
+  "rewrites": [
+    {
+      "source": "/duas",
+      "destination": "/duas.html"
+    },
+    {
+      "source": "/:surah",
+      "destination": "/surah.html?surah=:surah"
+    },
+    {
+      "source": "/:surah/:ayah",
+      "destination": "/:surah#:ayah"
+    },
+    {
+      "source": "/:surah/:ayah-:end",
+      "destination": "/:surah#:ayah-:end"
+    }
+  ]
+}

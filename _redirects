@@ -1,5 +1,5 @@
 # dua page rewrite
-# /duas /surahs/duas.html 200
+/duas /duas.html 200!
 
 # surah pages rewrite
 /:surah /surah.html?surah=:surah 200

@@ -13,6 +13,7 @@
 [[headers]]
   for = "*.ico"
   [headers.values]
+    Content-Type = "image/vnd.microsoft.icon"
     Cache-Control = "public, max-age=604800"
 [[headers]]
   for = "*.svg"
@@ -23,6 +24,10 @@
   [headers.values]
     Cache-Control = "public, max-age=604800"
 [[headers]]
+  for = "*.ttf"
+  [headers.values]
+    Cache-Control = "public, max-age=604800"
+[[headers]]
   for = "*.json"
   [headers.values]
     Cache-Control = "public, max-age=604800"
@@ -30,3 +35,9 @@
   for = "*.webmanifest"
   [headers.values]
     Cache-Control = "public, max-age=604800"
+
+[[headers]]
+  # Define which paths this specific [[headers]] block will cover.
+  for = "/*"
+    [headers.values]
+    Access-Control-Allow-Origin = "*"

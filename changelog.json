@@ -1,0 +1,76 @@
+[
+
+  {
+    "update": "3.1",
+    "date": "March 20, 2023",
+    "changes": {
+      "1": "major design changes, in case you'd like to continue using the old website, visit the legacy website from the right menu",
+      "2": "added continuous display mode",
+      "3": "added different repeat options (repeat single/range, delay, number of times)",
+      "4": "added ability to search in multiple translations",
+      "5": "added English transliteration by M.A.H. Eliyasee",
+      "6": "added The Clear Quran translation by Dr. Mustafa Khattab",
+      "7": "added Tamil translation",
+      "8": "added recitation by Mahmoud Khalil Al-Husary (with gaps)",
+      "9": "added links to Al Mulk and Al Kahf during specific times on the homepage",
+      "10": "added few new duas in the Duas From Quran page",
+      "11": "added surah overviews",
+      "12": "added button to load previous ayahs",
+      "13": "removed Russian and German WBW data (temporarily) due to request by the provider"
+    }
+  },
+
+  {
+    "update": "3.0",
+    "date": "Oct 2, 2020",
+    "changes": {
+      "1": "added the ability to display a second ayah translation"
+    }
+  },
+
+  {
+    "update": "2.9",
+    "date": "Sep 29, 2020",
+    "changes": {
+      "1": "the Duas From Quran page can now be viewed in different word by word and ayah translations",
+      "2": "added Sheikh El-Minshawi's teacher mode recitation"
+    }
+  },
+
+  {
+    "update": "2.8",
+    "date": "Sep 9, 2020",
+    "changes": {
+      "1": "added Hindi word by word & ayah translation",
+      "2": "added tafsir Jalalayn in English",
+      "3": "added page and juz/para goto selector with markings in the surahs"
+    }
+  },
+
+  {
+    "update": "2.7",
+    "date": "Jul 23, 2020",
+    "changes": {
+      "1": "added word by word & ayah translations for Turkish, German, Russian and Ingush"
+    }
+  },
+
+  {
+    "update": "2.6",
+    "date": "Jun 22, 2020",
+    "changes": {
+      "1": "updated fonts for Uthmani Nastaleeq and Naskh Nastaleeq IndoPak",
+      "2": "made some internal fixes"
+    }
+  },
+
+  {
+    "update": "2.5",
+    "date": "May 16, 2020",
+    "changes": {
+      "1": "added Naskh Nastaleeq IndoPak word type",
+      "2": "added Clear Quran translation by Talal Itani"
+    }
+  }
+
+]

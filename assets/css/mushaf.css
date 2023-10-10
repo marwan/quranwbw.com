@@ -1,0 +1,1811 @@
+@font-face { font-family: 'p1'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/1.ttf') format('truetype'); }
+.p1 { font-family: 'p1'!important; }
+
+@font-face { font-family: 'p2'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/2.ttf') format('truetype'); }
+.p2 { font-family: 'p2'!important; }
+
+@font-face { font-family: 'p3'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/3.ttf') format('truetype'); }
+.p3 { font-family: 'p3'!important; }
+
+@font-face { font-family: 'p4'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/4.ttf') format('truetype'); }
+.p4 { font-family: 'p4'!important; }
+
+@font-face { font-family: 'p5'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/5.ttf') format('truetype'); }
+.p5 { font-family: 'p5'!important; }
+
+@font-face { font-family: 'p6'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/6.ttf') format('truetype'); }
+.p6 { font-family: 'p6'!important; }
+
+@font-face { font-family: 'p7'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/7.ttf') format('truetype'); }
+.p7 { font-family: 'p7'!important; }
+
+@font-face { font-family: 'p8'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/8.ttf') format('truetype'); }
+.p8 { font-family: 'p8'!important; }
+
+@font-face { font-family: 'p9'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/9.ttf') format('truetype'); }
+.p9 { font-family: 'p9'!important; }
+
+@font-face { font-family: 'p10'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/10.ttf') format('truetype'); }
+.p10 { font-family: 'p10'!important; }
+
+@font-face { font-family: 'p11'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/11.ttf') format('truetype'); }
+.p11 { font-family: 'p11'!important; }
+
+@font-face { font-family: 'p12'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/12.ttf') format('truetype'); }
+.p12 { font-family: 'p12'!important; }
+
+@font-face { font-family: 'p13'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/13.ttf') format('truetype'); }
+.p13 { font-family: 'p13'!important; }
+
+@font-face { font-family: 'p14'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/14.ttf') format('truetype'); }
+.p14 { font-family: 'p14'!important; }
+
+@font-face { font-family: 'p15'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/15.ttf') format('truetype'); }
+.p15 { font-family: 'p15'!important; }
+
+@font-face { font-family: 'p16'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/16.ttf') format('truetype'); }
+.p16 { font-family: 'p16'!important; }
+
+@font-face { font-family: 'p17'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/17.ttf') format('truetype'); }
+.p17 { font-family: 'p17'!important; }
+
+@font-face { font-family: 'p18'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/18.ttf') format('truetype'); }
+.p18 { font-family: 'p18'!important; }
+
+@font-face { font-family: 'p19'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/19.ttf') format('truetype'); }
+.p19 { font-family: 'p19'!important; }
+
+@font-face { font-family: 'p20'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/20.ttf') format('truetype'); }
+.p20 { font-family: 'p20'!important; }
+
+@font-face { font-family: 'p21'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/21.ttf') format('truetype'); }
+.p21 { font-family: 'p21'!important; }
+
+@font-face { font-family: 'p22'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/22.ttf') format('truetype'); }
+.p22 { font-family: 'p22'!important; }
+
+@font-face { font-family: 'p23'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/23.ttf') format('truetype'); }
+.p23 { font-family: 'p23'!important; }
+
+@font-face { font-family: 'p24'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/24.ttf') format('truetype'); }
+.p24 { font-family: 'p24'!important; }
+
+@font-face { font-family: 'p25'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/25.ttf') format('truetype'); }
+.p25 { font-family: 'p25'!important; }
+
+@font-face { font-family: 'p26'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/26.ttf') format('truetype'); }
+.p26 { font-family: 'p26'!important; }
+
+@font-face { font-family: 'p27'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/27.ttf') format('truetype'); }
+.p27 { font-family: 'p27'!important; }
+
+@font-face { font-family: 'p28'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/28.ttf') format('truetype'); }
+.p28 { font-family: 'p28'!important; }
+
+@font-face { font-family: 'p29'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/29.ttf') format('truetype'); }
+.p29 { font-family: 'p29'!important; }
+
+@font-face { font-family: 'p30'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/30.ttf') format('truetype'); }
+.p30 { font-family: 'p30'!important; }
+
+@font-face { font-family: 'p31'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/31.ttf') format('truetype'); }
+.p31 { font-family: 'p31'!important; }
+
+@font-face { font-family: 'p32'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/32.ttf') format('truetype'); }
+.p32 { font-family: 'p32'!important; }
+
+@font-face { font-family: 'p33'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/33.ttf') format('truetype'); }
+.p33 { font-family: 'p33'!important; }
+
+@font-face { font-family: 'p34'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/34.ttf') format('truetype'); }
+.p34 { font-family: 'p34'!important; }
+
+@font-face { font-family: 'p35'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/35.ttf') format('truetype'); }
+.p35 { font-family: 'p35'!important; }
+
+@font-face { font-family: 'p36'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/36.ttf') format('truetype'); }
+.p36 { font-family: 'p36'!important; }
+
+@font-face { font-family: 'p37'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/37.ttf') format('truetype'); }
+.p37 { font-family: 'p37'!important; }
+
+@font-face { font-family: 'p38'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/38.ttf') format('truetype'); }
+.p38 { font-family: 'p38'!important; }
+
+@font-face { font-family: 'p39'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/39.ttf') format('truetype'); }
+.p39 { font-family: 'p39'!important; }
+
+@font-face { font-family: 'p40'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/40.ttf') format('truetype'); }
+.p40 { font-family: 'p40'!important; }
+
+@font-face { font-family: 'p41'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/41.ttf') format('truetype'); }
+.p41 { font-family: 'p41'!important; }
+
+@font-face { font-family: 'p42'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/42.ttf') format('truetype'); }
+.p42 { font-family: 'p42'!important; }
+
+@font-face { font-family: 'p43'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/43.ttf') format('truetype'); }
+.p43 { font-family: 'p43'!important; }
+
+@font-face { font-family: 'p44'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/44.ttf') format('truetype'); }
+.p44 { font-family: 'p44'!important; }
+
+@font-face { font-family: 'p45'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/45.ttf') format('truetype'); }
+.p45 { font-family: 'p45'!important; }
+
+@font-face { font-family: 'p46'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/46.ttf') format('truetype'); }
+.p46 { font-family: 'p46'!important; }
+
+@font-face { font-family: 'p47'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/47.ttf') format('truetype'); }
+.p47 { font-family: 'p47'!important; }
+
+@font-face { font-family: 'p48'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/48.ttf') format('truetype'); }
+.p48 { font-family: 'p48'!important; }
+
+@font-face { font-family: 'p49'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/49.ttf') format('truetype'); }
+.p49 { font-family: 'p49'!important; }
+
+@font-face { font-family: 'p50'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/50.ttf') format('truetype'); }
+.p50 { font-family: 'p50'!important; }
+
+@font-face { font-family: 'p51'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/51.ttf') format('truetype'); }
+.p51 { font-family: 'p51'!important; }
+
+@font-face { font-family: 'p52'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/52.ttf') format('truetype'); }
+.p52 { font-family: 'p52'!important; }
+
+@font-face { font-family: 'p53'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/53.ttf') format('truetype'); }
+.p53 { font-family: 'p53'!important; }
+
+@font-face { font-family: 'p54'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/54.ttf') format('truetype'); }
+.p54 { font-family: 'p54'!important; }
+
+@font-face { font-family: 'p55'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/55.ttf') format('truetype'); }
+.p55 { font-family: 'p55'!important; }
+
+@font-face { font-family: 'p56'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/56.ttf') format('truetype'); }
+.p56 { font-family: 'p56'!important; }
+
+@font-face { font-family: 'p57'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/57.ttf') format('truetype'); }
+.p57 { font-family: 'p57'!important; }
+
+@font-face { font-family: 'p58'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/58.ttf') format('truetype'); }
+.p58 { font-family: 'p58'!important; }
+
+@font-face { font-family: 'p59'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/59.ttf') format('truetype'); }
+.p59 { font-family: 'p59'!important; }
+
+@font-face { font-family: 'p60'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/60.ttf') format('truetype'); }
+.p60 { font-family: 'p60'!important; }
+
+@font-face { font-family: 'p61'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/61.ttf') format('truetype'); }
+.p61 { font-family: 'p61'!important; }
+
+@font-face { font-family: 'p62'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/62.ttf') format('truetype'); }
+.p62 { font-family: 'p62'!important; }
+
+@font-face { font-family: 'p63'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/63.ttf') format('truetype'); }
+.p63 { font-family: 'p63'!important; }
+
+@font-face { font-family: 'p64'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/64.ttf') format('truetype'); }
+.p64 { font-family: 'p64'!important; }
+
+@font-face { font-family: 'p65'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/65.ttf') format('truetype'); }
+.p65 { font-family: 'p65'!important; }
+
+@font-face { font-family: 'p66'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/66.ttf') format('truetype'); }
+.p66 { font-family: 'p66'!important; }
+
+@font-face { font-family: 'p67'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/67.ttf') format('truetype'); }
+.p67 { font-family: 'p67'!important; }
+
+@font-face { font-family: 'p68'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/68.ttf') format('truetype'); }
+.p68 { font-family: 'p68'!important; }
+
+@font-face { font-family: 'p69'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/69.ttf') format('truetype'); }
+.p69 { font-family: 'p69'!important; }
+
+@font-face { font-family: 'p70'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/70.ttf') format('truetype'); }
+.p70 { font-family: 'p70'!important; }
+
+@font-face { font-family: 'p71'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/71.ttf') format('truetype'); }
+.p71 { font-family: 'p71'!important; }
+
+@font-face { font-family: 'p72'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/72.ttf') format('truetype'); }
+.p72 { font-family: 'p72'!important; }
+
+@font-face { font-family: 'p73'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/73.ttf') format('truetype'); }
+.p73 { font-family: 'p73'!important; }
+
+@font-face { font-family: 'p74'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/74.ttf') format('truetype'); }
+.p74 { font-family: 'p74'!important; }
+
+@font-face { font-family: 'p75'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/75.ttf') format('truetype'); }
+.p75 { font-family: 'p75'!important; }
+
+@font-face { font-family: 'p76'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/76.ttf') format('truetype'); }
+.p76 { font-family: 'p76'!important; }
+
+@font-face { font-family: 'p77'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/77.ttf') format('truetype'); }
+.p77 { font-family: 'p77'!important; }
+
+@font-face { font-family: 'p78'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/78.ttf') format('truetype'); }
+.p78 { font-family: 'p78'!important; }
+
+@font-face { font-family: 'p79'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/79.ttf') format('truetype'); }
+.p79 { font-family: 'p79'!important; }
+
+@font-face { font-family: 'p80'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/80.ttf') format('truetype'); }
+.p80 { font-family: 'p80'!important; }
+
+@font-face { font-family: 'p81'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/81.ttf') format('truetype'); }
+.p81 { font-family: 'p81'!important; }
+
+@font-face { font-family: 'p82'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/82.ttf') format('truetype'); }
+.p82 { font-family: 'p82'!important; }
+
+@font-face { font-family: 'p83'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/83.ttf') format('truetype'); }
+.p83 { font-family: 'p83'!important; }
+
+@font-face { font-family: 'p84'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/84.ttf') format('truetype'); }
+.p84 { font-family: 'p84'!important; }
+
+@font-face { font-family: 'p85'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/85.ttf') format('truetype'); }
+.p85 { font-family: 'p85'!important; }
+
+@font-face { font-family: 'p86'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/86.ttf') format('truetype'); }
+.p86 { font-family: 'p86'!important; }
+
+@font-face { font-family: 'p87'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/87.ttf') format('truetype'); }
+.p87 { font-family: 'p87'!important; }
+
+@font-face { font-family: 'p88'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/88.ttf') format('truetype'); }
+.p88 { font-family: 'p88'!important; }
+
+@font-face { font-family: 'p89'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/89.ttf') format('truetype'); }
+.p89 { font-family: 'p89'!important; }
+
+@font-face { font-family: 'p90'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/90.ttf') format('truetype'); }
+.p90 { font-family: 'p90'!important; }
+
+@font-face { font-family: 'p91'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/91.ttf') format('truetype'); }
+.p91 { font-family: 'p91'!important; }
+
+@font-face { font-family: 'p92'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/92.ttf') format('truetype'); }
+.p92 { font-family: 'p92'!important; }
+
+@font-face { font-family: 'p93'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/93.ttf') format('truetype'); }
+.p93 { font-family: 'p93'!important; }
+
+@font-face { font-family: 'p94'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/94.ttf') format('truetype'); }
+.p94 { font-family: 'p94'!important; }
+
+@font-face { font-family: 'p95'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/95.ttf') format('truetype'); }
+.p95 { font-family: 'p95'!important; }
+
+@font-face { font-family: 'p96'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/96.ttf') format('truetype'); }
+.p96 { font-family: 'p96'!important; }
+
+@font-face { font-family: 'p97'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/97.ttf') format('truetype'); }
+.p97 { font-family: 'p97'!important; }
+
+@font-face { font-family: 'p98'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/98.ttf') format('truetype'); }
+.p98 { font-family: 'p98'!important; }
+
+@font-face { font-family: 'p99'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/99.ttf') format('truetype'); }
+.p99 { font-family: 'p99'!important; }
+
+@font-face { font-family: 'p100'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/100.ttf') format('truetype'); }
+.p100 { font-family: 'p100'!important; }
+
+@font-face { font-family: 'p101'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/101.ttf') format('truetype'); }
+.p101 { font-family: 'p101'!important; }
+
+@font-face { font-family: 'p102'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/102.ttf') format('truetype'); }
+.p102 { font-family: 'p102'!important; }
+
+@font-face { font-family: 'p103'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/103.ttf') format('truetype'); }
+.p103 { font-family: 'p103'!important; }
+
+@font-face { font-family: 'p104'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/104.ttf') format('truetype'); }
+.p104 { font-family: 'p104'!important; }
+
+@font-face { font-family: 'p105'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/105.ttf') format('truetype'); }
+.p105 { font-family: 'p105'!important; }
+
+@font-face { font-family: 'p106'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/106.ttf') format('truetype'); }
+.p106 { font-family: 'p106'!important; }
+
+@font-face { font-family: 'p107'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/107.ttf') format('truetype'); }
+.p107 { font-family: 'p107'!important; }
+
+@font-face { font-family: 'p108'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/108.ttf') format('truetype'); }
+.p108 { font-family: 'p108'!important; }
+
+@font-face { font-family: 'p109'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/109.ttf') format('truetype'); }
+.p109 { font-family: 'p109'!important; }
+
+@font-face { font-family: 'p110'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/110.ttf') format('truetype'); }
+.p110 { font-family: 'p110'!important; }
+
+@font-face { font-family: 'p111'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/111.ttf') format('truetype'); }
+.p111 { font-family: 'p111'!important; }
+
+@font-face { font-family: 'p112'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/112.ttf') format('truetype'); }
+.p112 { font-family: 'p112'!important; }
+
+@font-face { font-family: 'p113'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/113.ttf') format('truetype'); }
+.p113 { font-family: 'p113'!important; }
+
+@font-face { font-family: 'p114'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/114.ttf') format('truetype'); }
+.p114 { font-family: 'p114'!important; }
+
+@font-face { font-family: 'p115'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/115.ttf') format('truetype'); }
+.p115 { font-family: 'p115'!important; }
+
+@font-face { font-family: 'p116'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/116.ttf') format('truetype'); }
+.p116 { font-family: 'p116'!important; }
+
+@font-face { font-family: 'p117'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/117.ttf') format('truetype'); }
+.p117 { font-family: 'p117'!important; }
+
+@font-face { font-family: 'p118'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/118.ttf') format('truetype'); }
+.p118 { font-family: 'p118'!important; }
+
+@font-face { font-family: 'p119'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/119.ttf') format('truetype'); }
+.p119 { font-family: 'p119'!important; }
+
+@font-face { font-family: 'p120'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/120.ttf') format('truetype'); }
+.p120 { font-family: 'p120'!important; }
+
+@font-face { font-family: 'p121'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/121.ttf') format('truetype'); }
+.p121 { font-family: 'p121'!important; }
+
+@font-face { font-family: 'p122'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/122.ttf') format('truetype'); }
+.p122 { font-family: 'p122'!important; }
+
+@font-face { font-family: 'p123'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/123.ttf') format('truetype'); }
+.p123 { font-family: 'p123'!important; }
+
+@font-face { font-family: 'p124'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/124.ttf') format('truetype'); }
+.p124 { font-family: 'p124'!important; }
+
+@font-face { font-family: 'p125'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/125.ttf') format('truetype'); }
+.p125 { font-family: 'p125'!important; }
+
+@font-face { font-family: 'p126'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/126.ttf') format('truetype'); }
+.p126 { font-family: 'p126'!important; }
+
+@font-face { font-family: 'p127'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/127.ttf') format('truetype'); }
+.p127 { font-family: 'p127'!important; }
+
+@font-face { font-family: 'p128'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/128.ttf') format('truetype'); }
+.p128 { font-family: 'p128'!important; }
+
+@font-face { font-family: 'p129'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/129.ttf') format('truetype'); }
+.p129 { font-family: 'p129'!important; }
+
+@font-face { font-family: 'p130'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/130.ttf') format('truetype'); }
+.p130 { font-family: 'p130'!important; }
+
+@font-face { font-family: 'p131'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/131.ttf') format('truetype'); }
+.p131 { font-family: 'p131'!important; }
+
+@font-face { font-family: 'p132'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/132.ttf') format('truetype'); }
+.p132 { font-family: 'p132'!important; }
+
+@font-face { font-family: 'p133'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/133.ttf') format('truetype'); }
+.p133 { font-family: 'p133'!important; }
+
+@font-face { font-family: 'p134'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/134.ttf') format('truetype'); }
+.p134 { font-family: 'p134'!important; }
+
+@font-face { font-family: 'p135'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/135.ttf') format('truetype'); }
+.p135 { font-family: 'p135'!important; }
+
+@font-face { font-family: 'p136'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/136.ttf') format('truetype'); }
+.p136 { font-family: 'p136'!important; }
+
+@font-face { font-family: 'p137'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/137.ttf') format('truetype'); }
+.p137 { font-family: 'p137'!important; }
+
+@font-face { font-family: 'p138'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/138.ttf') format('truetype'); }
+.p138 { font-family: 'p138'!important; }
+
+@font-face { font-family: 'p139'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/139.ttf') format('truetype'); }
+.p139 { font-family: 'p139'!important; }
+
+@font-face { font-family: 'p140'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/140.ttf') format('truetype'); }
+.p140 { font-family: 'p140'!important; }
+
+@font-face { font-family: 'p141'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/141.ttf') format('truetype'); }
+.p141 { font-family: 'p141'!important; }
+
+@font-face { font-family: 'p142'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/142.ttf') format('truetype'); }
+.p142 { font-family: 'p142'!important; }
+
+@font-face { font-family: 'p143'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/143.ttf') format('truetype'); }
+.p143 { font-family: 'p143'!important; }
+
+@font-face { font-family: 'p144'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/144.ttf') format('truetype'); }
+.p144 { font-family: 'p144'!important; }
+
+@font-face { font-family: 'p145'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/145.ttf') format('truetype'); }
+.p145 { font-family: 'p145'!important; }
+
+@font-face { font-family: 'p146'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/146.ttf') format('truetype'); }
+.p146 { font-family: 'p146'!important; }
+
+@font-face { font-family: 'p147'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/147.ttf') format('truetype'); }
+.p147 { font-family: 'p147'!important; }
+
+@font-face { font-family: 'p148'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/148.ttf') format('truetype'); }
+.p148 { font-family: 'p148'!important; }
+
+@font-face { font-family: 'p149'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/149.ttf') format('truetype'); }
+.p149 { font-family: 'p149'!important; }
+
+@font-face { font-family: 'p150'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/150.ttf') format('truetype'); }
+.p150 { font-family: 'p150'!important; }
+
+@font-face { font-family: 'p151'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/151.ttf') format('truetype'); }
+.p151 { font-family: 'p151'!important; }
+
+@font-face { font-family: 'p152'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/152.ttf') format('truetype'); }
+.p152 { font-family: 'p152'!important; }
+
+@font-face { font-family: 'p153'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/153.ttf') format('truetype'); }
+.p153 { font-family: 'p153'!important; }
+
+@font-face { font-family: 'p154'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/154.ttf') format('truetype'); }
+.p154 { font-family: 'p154'!important; }
+
+@font-face { font-family: 'p155'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/155.ttf') format('truetype'); }
+.p155 { font-family: 'p155'!important; }
+
+@font-face { font-family: 'p156'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/156.ttf') format('truetype'); }
+.p156 { font-family: 'p156'!important; }
+
+@font-face { font-family: 'p157'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/157.ttf') format('truetype'); }
+.p157 { font-family: 'p157'!important; }
+
+@font-face { font-family: 'p158'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/158.ttf') format('truetype'); }
+.p158 { font-family: 'p158'!important; }
+
+@font-face { font-family: 'p159'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/159.ttf') format('truetype'); }
+.p159 { font-family: 'p159'!important; }
+
+@font-face { font-family: 'p160'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/160.ttf') format('truetype'); }
+.p160 { font-family: 'p160'!important; }
+
+@font-face { font-family: 'p161'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/161.ttf') format('truetype'); }
+.p161 { font-family: 'p161'!important; }
+
+@font-face { font-family: 'p162'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/162.ttf') format('truetype'); }
+.p162 { font-family: 'p162'!important; }
+
+@font-face { font-family: 'p163'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/163.ttf') format('truetype'); }
+.p163 { font-family: 'p163'!important; }
+
+@font-face { font-family: 'p164'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/164.ttf') format('truetype'); }
+.p164 { font-family: 'p164'!important; }
+
+@font-face { font-family: 'p165'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/165.ttf') format('truetype'); }
+.p165 { font-family: 'p165'!important; }
+
+@font-face { font-family: 'p166'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/166.ttf') format('truetype'); }
+.p166 { font-family: 'p166'!important; }
+
+@font-face { font-family: 'p167'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/167.ttf') format('truetype'); }
+.p167 { font-family: 'p167'!important; }
+
+@font-face { font-family: 'p168'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/168.ttf') format('truetype'); }
+.p168 { font-family: 'p168'!important; }
+
+@font-face { font-family: 'p169'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/169.ttf') format('truetype'); }
+.p169 { font-family: 'p169'!important; }
+
+@font-face { font-family: 'p170'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/170.ttf') format('truetype'); }
+.p170 { font-family: 'p170'!important; }
+
+@font-face { font-family: 'p171'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/171.ttf') format('truetype'); }
+.p171 { font-family: 'p171'!important; }
+
+@font-face { font-family: 'p172'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/172.ttf') format('truetype'); }
+.p172 { font-family: 'p172'!important; }
+
+@font-face { font-family: 'p173'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/173.ttf') format('truetype'); }
+.p173 { font-family: 'p173'!important; }
+
+@font-face { font-family: 'p174'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/174.ttf') format('truetype'); }
+.p174 { font-family: 'p174'!important; }
+
+@font-face { font-family: 'p175'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/175.ttf') format('truetype'); }
+.p175 { font-family: 'p175'!important; }
+
+@font-face { font-family: 'p176'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/176.ttf') format('truetype'); }
+.p176 { font-family: 'p176'!important; }
+
+@font-face { font-family: 'p177'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/177.ttf') format('truetype'); }
+.p177 { font-family: 'p177'!important; }
+
+@font-face { font-family: 'p178'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/178.ttf') format('truetype'); }
+.p178 { font-family: 'p178'!important; }
+
+@font-face { font-family: 'p179'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/179.ttf') format('truetype'); }
+.p179 { font-family: 'p179'!important; }
+
+@font-face { font-family: 'p180'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/180.ttf') format('truetype'); }
+.p180 { font-family: 'p180'!important; }
+
+@font-face { font-family: 'p181'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/181.ttf') format('truetype'); }
+.p181 { font-family: 'p181'!important; }
+
+@font-face { font-family: 'p182'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/182.ttf') format('truetype'); }
+.p182 { font-family: 'p182'!important; }
+
+@font-face { font-family: 'p183'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/183.ttf') format('truetype'); }
+.p183 { font-family: 'p183'!important; }
+
+@font-face { font-family: 'p184'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/184.ttf') format('truetype'); }
+.p184 { font-family: 'p184'!important; }
+
+@font-face { font-family: 'p185'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/185.ttf') format('truetype'); }
+.p185 { font-family: 'p185'!important; }
+
+@font-face { font-family: 'p186'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/186.ttf') format('truetype'); }
+.p186 { font-family: 'p186'!important; }
+
+@font-face { font-family: 'p187'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/187.ttf') format('truetype'); }
+.p187 { font-family: 'p187'!important; }
+
+@font-face { font-family: 'p188'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/188.ttf') format('truetype'); }
+.p188 { font-family: 'p188'!important; }
+
+@font-face { font-family: 'p189'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/189.ttf') format('truetype'); }
+.p189 { font-family: 'p189'!important; }
+
+@font-face { font-family: 'p190'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/190.ttf') format('truetype'); }
+.p190 { font-family: 'p190'!important; }
+
+@font-face { font-family: 'p191'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/191.ttf') format('truetype'); }
+.p191 { font-family: 'p191'!important; }
+
+@font-face { font-family: 'p192'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/192.ttf') format('truetype'); }
+.p192 { font-family: 'p192'!important; }
+
+@font-face { font-family: 'p193'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/193.ttf') format('truetype'); }
+.p193 { font-family: 'p193'!important; }
+
+@font-face { font-family: 'p194'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/194.ttf') format('truetype'); }
+.p194 { font-family: 'p194'!important; }
+
+@font-face { font-family: 'p195'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/195.ttf') format('truetype'); }
+.p195 { font-family: 'p195'!important; }
+
+@font-face { font-family: 'p196'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/196.ttf') format('truetype'); }
+.p196 { font-family: 'p196'!important; }
+
+@font-face { font-family: 'p197'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/197.ttf') format('truetype'); }
+.p197 { font-family: 'p197'!important; }
+
+@font-face { font-family: 'p198'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/198.ttf') format('truetype'); }
+.p198 { font-family: 'p198'!important; }
+
+@font-face { font-family: 'p199'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/199.ttf') format('truetype'); }
+.p199 { font-family: 'p199'!important; }
+
+@font-face { font-family: 'p200'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/200.ttf') format('truetype'); }
+.p200 { font-family: 'p200'!important; }
+
+@font-face { font-family: 'p201'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/201.ttf') format('truetype'); }
+.p201 { font-family: 'p201'!important; }
+
+@font-face { font-family: 'p202'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/202.ttf') format('truetype'); }
+.p202 { font-family: 'p202'!important; }
+
+@font-face { font-family: 'p203'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/203.ttf') format('truetype'); }
+.p203 { font-family: 'p203'!important; }
+
+@font-face { font-family: 'p204'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/204.ttf') format('truetype'); }
+.p204 { font-family: 'p204'!important; }
+
+@font-face { font-family: 'p205'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/205.ttf') format('truetype'); }
+.p205 { font-family: 'p205'!important; }
+
+@font-face { font-family: 'p206'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/206.ttf') format('truetype'); }
+.p206 { font-family: 'p206'!important; }
+
+@font-face { font-family: 'p207'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/207.ttf') format('truetype'); }
+.p207 { font-family: 'p207'!important; }
+
+@font-face { font-family: 'p208'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/208.ttf') format('truetype'); }
+.p208 { font-family: 'p208'!important; }
+
+@font-face { font-family: 'p209'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/209.ttf') format('truetype'); }
+.p209 { font-family: 'p209'!important; }
+
+@font-face { font-family: 'p210'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/210.ttf') format('truetype'); }
+.p210 { font-family: 'p210'!important; }
+
+@font-face { font-family: 'p211'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/211.ttf') format('truetype'); }
+.p211 { font-family: 'p211'!important; }
+
+@font-face { font-family: 'p212'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/212.ttf') format('truetype'); }
+.p212 { font-family: 'p212'!important; }
+
+@font-face { font-family: 'p213'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/213.ttf') format('truetype'); }
+.p213 { font-family: 'p213'!important; }
+
+@font-face { font-family: 'p214'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/214.ttf') format('truetype'); }
+.p214 { font-family: 'p214'!important; }
+
+@font-face { font-family: 'p215'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/215.ttf') format('truetype'); }
+.p215 { font-family: 'p215'!important; }
+
+@font-face { font-family: 'p216'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/216.ttf') format('truetype'); }
+.p216 { font-family: 'p216'!important; }
+
+@font-face { font-family: 'p217'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/217.ttf') format('truetype'); }
+.p217 { font-family: 'p217'!important; }
+
+@font-face { font-family: 'p218'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/218.ttf') format('truetype'); }
+.p218 { font-family: 'p218'!important; }
+
+@font-face { font-family: 'p219'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/219.ttf') format('truetype'); }
+.p219 { font-family: 'p219'!important; }
+
+@font-face { font-family: 'p220'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/220.ttf') format('truetype'); }
+.p220 { font-family: 'p220'!important; }
+
+@font-face { font-family: 'p221'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/221.ttf') format('truetype'); }
+.p221 { font-family: 'p221'!important; }
+
+@font-face { font-family: 'p222'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/222.ttf') format('truetype'); }
+.p222 { font-family: 'p222'!important; }
+
+@font-face { font-family: 'p223'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/223.ttf') format('truetype'); }
+.p223 { font-family: 'p223'!important; }
+
+@font-face { font-family: 'p224'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/224.ttf') format('truetype'); }
+.p224 { font-family: 'p224'!important; }
+
+@font-face { font-family: 'p225'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/225.ttf') format('truetype'); }
+.p225 { font-family: 'p225'!important; }
+
+@font-face { font-family: 'p226'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/226.ttf') format('truetype'); }
+.p226 { font-family: 'p226'!important; }
+
+@font-face { font-family: 'p227'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/227.ttf') format('truetype'); }
+.p227 { font-family: 'p227'!important; }
+
+@font-face { font-family: 'p228'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/228.ttf') format('truetype'); }
+.p228 { font-family: 'p228'!important; }
+
+@font-face { font-family: 'p229'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/229.ttf') format('truetype'); }
+.p229 { font-family: 'p229'!important; }
+
+@font-face { font-family: 'p230'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/230.ttf') format('truetype'); }
+.p230 { font-family: 'p230'!important; }
+
+@font-face { font-family: 'p231'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/231.ttf') format('truetype'); }
+.p231 { font-family: 'p231'!important; }
+
+@font-face { font-family: 'p232'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/232.ttf') format('truetype'); }
+.p232 { font-family: 'p232'!important; }
+
+@font-face { font-family: 'p233'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/233.ttf') format('truetype'); }
+.p233 { font-family: 'p233'!important; }
+
+@font-face { font-family: 'p234'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/234.ttf') format('truetype'); }
+.p234 { font-family: 'p234'!important; }
+
+@font-face { font-family: 'p235'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/235.ttf') format('truetype'); }
+.p235 { font-family: 'p235'!important; }
+
+@font-face { font-family: 'p236'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/236.ttf') format('truetype'); }
+.p236 { font-family: 'p236'!important; }
+
+@font-face { font-family: 'p237'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/237.ttf') format('truetype'); }
+.p237 { font-family: 'p237'!important; }
+
+@font-face { font-family: 'p238'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/238.ttf') format('truetype'); }
+.p238 { font-family: 'p238'!important; }
+
+@font-face { font-family: 'p239'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/239.ttf') format('truetype'); }
+.p239 { font-family: 'p239'!important; }
+
+@font-face { font-family: 'p240'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/240.ttf') format('truetype'); }
+.p240 { font-family: 'p240'!important; }
+
+@font-face { font-family: 'p241'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/241.ttf') format('truetype'); }
+.p241 { font-family: 'p241'!important; }
+
+@font-face { font-family: 'p242'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/242.ttf') format('truetype'); }
+.p242 { font-family: 'p242'!important; }
+
+@font-face { font-family: 'p243'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/243.ttf') format('truetype'); }
+.p243 { font-family: 'p243'!important; }
+
+@font-face { font-family: 'p244'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/244.ttf') format('truetype'); }
+.p244 { font-family: 'p244'!important; }
+
+@font-face { font-family: 'p245'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/245.ttf') format('truetype'); }
+.p245 { font-family: 'p245'!important; }
+
+@font-face { font-family: 'p246'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/246.ttf') format('truetype'); }
+.p246 { font-family: 'p246'!important; }
+
+@font-face { font-family: 'p247'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/247.ttf') format('truetype'); }
+.p247 { font-family: 'p247'!important; }
+
+@font-face { font-family: 'p248'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/248.ttf') format('truetype'); }
+.p248 { font-family: 'p248'!important; }
+
+@font-face { font-family: 'p249'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/249.ttf') format('truetype'); }
+.p249 { font-family: 'p249'!important; }
+
+@font-face { font-family: 'p250'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/250.ttf') format('truetype'); }
+.p250 { font-family: 'p250'!important; }
+
+@font-face { font-family: 'p251'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/251.ttf') format('truetype'); }
+.p251 { font-family: 'p251'!important; }
+
+@font-face { font-family: 'p252'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/252.ttf') format('truetype'); }
+.p252 { font-family: 'p252'!important; }
+
+@font-face { font-family: 'p253'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/253.ttf') format('truetype'); }
+.p253 { font-family: 'p253'!important; }
+
+@font-face { font-family: 'p254'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/254.ttf') format('truetype'); }
+.p254 { font-family: 'p254'!important; }
+
+@font-face { font-family: 'p255'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/255.ttf') format('truetype'); }
+.p255 { font-family: 'p255'!important; }
+
+@font-face { font-family: 'p256'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/256.ttf') format('truetype'); }
+.p256 { font-family: 'p256'!important; }
+
+@font-face { font-family: 'p257'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/257.ttf') format('truetype'); }
+.p257 { font-family: 'p257'!important; }
+
+@font-face { font-family: 'p258'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/258.ttf') format('truetype'); }
+.p258 { font-family: 'p258'!important; }
+
+@font-face { font-family: 'p259'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/259.ttf') format('truetype'); }
+.p259 { font-family: 'p259'!important; }
+
+@font-face { font-family: 'p260'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/260.ttf') format('truetype'); }
+.p260 { font-family: 'p260'!important; }
+
+@font-face { font-family: 'p261'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/261.ttf') format('truetype'); }
+.p261 { font-family: 'p261'!important; }
+
+@font-face { font-family: 'p262'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/262.ttf') format('truetype'); }
+.p262 { font-family: 'p262'!important; }
+
+@font-face { font-family: 'p263'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/263.ttf') format('truetype'); }
+.p263 { font-family: 'p263'!important; }
+
+@font-face { font-family: 'p264'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/264.ttf') format('truetype'); }
+.p264 { font-family: 'p264'!important; }
+
+@font-face { font-family: 'p265'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/265.ttf') format('truetype'); }
+.p265 { font-family: 'p265'!important; }
+
+@font-face { font-family: 'p266'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/266.ttf') format('truetype'); }
+.p266 { font-family: 'p266'!important; }
+
+@font-face { font-family: 'p267'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/267.ttf') format('truetype'); }
+.p267 { font-family: 'p267'!important; }
+
+@font-face { font-family: 'p268'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/268.ttf') format('truetype'); }
+.p268 { font-family: 'p268'!important; }
+
+@font-face { font-family: 'p269'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/269.ttf') format('truetype'); }
+.p269 { font-family: 'p269'!important; }
+
+@font-face { font-family: 'p270'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/270.ttf') format('truetype'); }
+.p270 { font-family: 'p270'!important; }
+
+@font-face { font-family: 'p271'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/271.ttf') format('truetype'); }
+.p271 { font-family: 'p271'!important; }
+
+@font-face { font-family: 'p272'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/272.ttf') format('truetype'); }
+.p272 { font-family: 'p272'!important; }
+
+@font-face { font-family: 'p273'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/273.ttf') format('truetype'); }
+.p273 { font-family: 'p273'!important; }
+
+@font-face { font-family: 'p274'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/274.ttf') format('truetype'); }
+.p274 { font-family: 'p274'!important; }
+
+@font-face { font-family: 'p275'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/275.ttf') format('truetype'); }
+.p275 { font-family: 'p275'!important; }
+
+@font-face { font-family: 'p276'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/276.ttf') format('truetype'); }
+.p276 { font-family: 'p276'!important; }
+
+@font-face { font-family: 'p277'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/277.ttf') format('truetype'); }
+.p277 { font-family: 'p277'!important; }
+
+@font-face { font-family: 'p278'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/278.ttf') format('truetype'); }
+.p278 { font-family: 'p278'!important; }
+
+@font-face { font-family: 'p279'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/279.ttf') format('truetype'); }
+.p279 { font-family: 'p279'!important; }
+
+@font-face { font-family: 'p280'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/280.ttf') format('truetype'); }
+.p280 { font-family: 'p280'!important; }
+
+@font-face { font-family: 'p281'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/281.ttf') format('truetype'); }
+.p281 { font-family: 'p281'!important; }
+
+@font-face { font-family: 'p282'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/282.ttf') format('truetype'); }
+.p282 { font-family: 'p282'!important; }
+
+@font-face { font-family: 'p283'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/283.ttf') format('truetype'); }
+.p283 { font-family: 'p283'!important; }
+
+@font-face { font-family: 'p284'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/284.ttf') format('truetype'); }
+.p284 { font-family: 'p284'!important; }
+
+@font-face { font-family: 'p285'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/285.ttf') format('truetype'); }
+.p285 { font-family: 'p285'!important; }
+
+@font-face { font-family: 'p286'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/286.ttf') format('truetype'); }
+.p286 { font-family: 'p286'!important; }
+
+@font-face { font-family: 'p287'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/287.ttf') format('truetype'); }
+.p287 { font-family: 'p287'!important; }
+
+@font-face { font-family: 'p288'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/288.ttf') format('truetype'); }
+.p288 { font-family: 'p288'!important; }
+
+@font-face { font-family: 'p289'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/289.ttf') format('truetype'); }
+.p289 { font-family: 'p289'!important; }
+
+@font-face { font-family: 'p290'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/290.ttf') format('truetype'); }
+.p290 { font-family: 'p290'!important; }
+
+@font-face { font-family: 'p291'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/291.ttf') format('truetype'); }
+.p291 { font-family: 'p291'!important; }
+
+@font-face { font-family: 'p292'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/292.ttf') format('truetype'); }
+.p292 { font-family: 'p292'!important; }
+
+@font-face { font-family: 'p293'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/293.ttf') format('truetype'); }
+.p293 { font-family: 'p293'!important; }
+
+@font-face { font-family: 'p294'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/294.ttf') format('truetype'); }
+.p294 { font-family: 'p294'!important; }
+
+@font-face { font-family: 'p295'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/295.ttf') format('truetype'); }
+.p295 { font-family: 'p295'!important; }
+
+@font-face { font-family: 'p296'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/296.ttf') format('truetype'); }
+.p296 { font-family: 'p296'!important; }
+
+@font-face { font-family: 'p297'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/297.ttf') format('truetype'); }
+.p297 { font-family: 'p297'!important; }
+
+@font-face { font-family: 'p298'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/298.ttf') format('truetype'); }
+.p298 { font-family: 'p298'!important; }
+
+@font-face { font-family: 'p299'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/299.ttf') format('truetype'); }
+.p299 { font-family: 'p299'!important; }
+
+@font-face { font-family: 'p300'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/300.ttf') format('truetype'); }
+.p300 { font-family: 'p300'!important; }
+
+@font-face { font-family: 'p301'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/301.ttf') format('truetype'); }
+.p301 { font-family: 'p301'!important; }
+
+@font-face { font-family: 'p302'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/302.ttf') format('truetype'); }
+.p302 { font-family: 'p302'!important; }
+
+@font-face { font-family: 'p303'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/303.ttf') format('truetype'); }
+.p303 { font-family: 'p303'!important; }
+
+@font-face { font-family: 'p304'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/304.ttf') format('truetype'); }
+.p304 { font-family: 'p304'!important; }
+
+@font-face { font-family: 'p305'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/305.ttf') format('truetype'); }
+.p305 { font-family: 'p305'!important; }
+
+@font-face { font-family: 'p306'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/306.ttf') format('truetype'); }
+.p306 { font-family: 'p306'!important; }
+
+@font-face { font-family: 'p307'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/307.ttf') format('truetype'); }
+.p307 { font-family: 'p307'!important; }
+
+@font-face { font-family: 'p308'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/308.ttf') format('truetype'); }
+.p308 { font-family: 'p308'!important; }
+
+@font-face { font-family: 'p309'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/309.ttf') format('truetype'); }
+.p309 { font-family: 'p309'!important; }
+
+@font-face { font-family: 'p310'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/310.ttf') format('truetype'); }
+.p310 { font-family: 'p310'!important; }
+
+@font-face { font-family: 'p311'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/311.ttf') format('truetype'); }
+.p311 { font-family: 'p311'!important; }
+
+@font-face { font-family: 'p312'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/312.ttf') format('truetype'); }
+.p312 { font-family: 'p312'!important; }
+
+@font-face { font-family: 'p313'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/313.ttf') format('truetype'); }
+.p313 { font-family: 'p313'!important; }
+
+@font-face { font-family: 'p314'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/314.ttf') format('truetype'); }
+.p314 { font-family: 'p314'!important; }
+
+@font-face { font-family: 'p315'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/315.ttf') format('truetype'); }
+.p315 { font-family: 'p315'!important; }
+
+@font-face { font-family: 'p316'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/316.ttf') format('truetype'); }
+.p316 { font-family: 'p316'!important; }
+
+@font-face { font-family: 'p317'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/317.ttf') format('truetype'); }
+.p317 { font-family: 'p317'!important; }
+
+@font-face { font-family: 'p318'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/318.ttf') format('truetype'); }
+.p318 { font-family: 'p318'!important; }
+
+@font-face { font-family: 'p319'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/319.ttf') format('truetype'); }
+.p319 { font-family: 'p319'!important; }
+
+@font-face { font-family: 'p320'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/320.ttf') format('truetype'); }
+.p320 { font-family: 'p320'!important; }
+
+@font-face { font-family: 'p321'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/321.ttf') format('truetype'); }
+.p321 { font-family: 'p321'!important; }
+
+@font-face { font-family: 'p322'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/322.ttf') format('truetype'); }
+.p322 { font-family: 'p322'!important; }
+
+@font-face { font-family: 'p323'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/323.ttf') format('truetype'); }
+.p323 { font-family: 'p323'!important; }
+
+@font-face { font-family: 'p324'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/324.ttf') format('truetype'); }
+.p324 { font-family: 'p324'!important; }
+
+@font-face { font-family: 'p325'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/325.ttf') format('truetype'); }
+.p325 { font-family: 'p325'!important; }
+
+@font-face { font-family: 'p326'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/326.ttf') format('truetype'); }
+.p326 { font-family: 'p326'!important; }
+
+@font-face { font-family: 'p327'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/327.ttf') format('truetype'); }
+.p327 { font-family: 'p327'!important; }
+
+@font-face { font-family: 'p328'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/328.ttf') format('truetype'); }
+.p328 { font-family: 'p328'!important; }
+
+@font-face { font-family: 'p329'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/329.ttf') format('truetype'); }
+.p329 { font-family: 'p329'!important; }
+
+@font-face { font-family: 'p330'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/330.ttf') format('truetype'); }
+.p330 { font-family: 'p330'!important; }
+
+@font-face { font-family: 'p331'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/331.ttf') format('truetype'); }
+.p331 { font-family: 'p331'!important; }
+
+@font-face { font-family: 'p332'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/332.ttf') format('truetype'); }
+.p332 { font-family: 'p332'!important; }
+
+@font-face { font-family: 'p333'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/333.ttf') format('truetype'); }
+.p333 { font-family: 'p333'!important; }
+
+@font-face { font-family: 'p334'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/334.ttf') format('truetype'); }
+.p334 { font-family: 'p334'!important; }
+
+@font-face { font-family: 'p335'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/335.ttf') format('truetype'); }
+.p335 { font-family: 'p335'!important; }
+
+@font-face { font-family: 'p336'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/336.ttf') format('truetype'); }
+.p336 { font-family: 'p336'!important; }
+
+@font-face { font-family: 'p337'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/337.ttf') format('truetype'); }
+.p337 { font-family: 'p337'!important; }
+
+@font-face { font-family: 'p338'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/338.ttf') format('truetype'); }
+.p338 { font-family: 'p338'!important; }
+
+@font-face { font-family: 'p339'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/339.ttf') format('truetype'); }
+.p339 { font-family: 'p339'!important; }
+
+@font-face { font-family: 'p340'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/340.ttf') format('truetype'); }
+.p340 { font-family: 'p340'!important; }
+
+@font-face { font-family: 'p341'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/341.ttf') format('truetype'); }
+.p341 { font-family: 'p341'!important; }
+
+@font-face { font-family: 'p342'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/342.ttf') format('truetype'); }
+.p342 { font-family: 'p342'!important; }
+
+@font-face { font-family: 'p343'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/343.ttf') format('truetype'); }
+.p343 { font-family: 'p343'!important; }
+
+@font-face { font-family: 'p344'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/344.ttf') format('truetype'); }
+.p344 { font-family: 'p344'!important; }
+
+@font-face { font-family: 'p345'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/345.ttf') format('truetype'); }
+.p345 { font-family: 'p345'!important; }
+
+@font-face { font-family: 'p346'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/346.ttf') format('truetype'); }
+.p346 { font-family: 'p346'!important; }
+
+@font-face { font-family: 'p347'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/347.ttf') format('truetype'); }
+.p347 { font-family: 'p347'!important; }
+
+@font-face { font-family: 'p348'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/348.ttf') format('truetype'); }
+.p348 { font-family: 'p348'!important; }
+
+@font-face { font-family: 'p349'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/349.ttf') format('truetype'); }
+.p349 { font-family: 'p349'!important; }
+
+@font-face { font-family: 'p350'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/350.ttf') format('truetype'); }
+.p350 { font-family: 'p350'!important; }
+
+@font-face { font-family: 'p351'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/351.ttf') format('truetype'); }
+.p351 { font-family: 'p351'!important; }
+
+@font-face { font-family: 'p352'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/352.ttf') format('truetype'); }
+.p352 { font-family: 'p352'!important; }
+
+@font-face { font-family: 'p353'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/353.ttf') format('truetype'); }
+.p353 { font-family: 'p353'!important; }
+
+@font-face { font-family: 'p354'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/354.ttf') format('truetype'); }
+.p354 { font-family: 'p354'!important; }
+
+@font-face { font-family: 'p355'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/355.ttf') format('truetype'); }
+.p355 { font-family: 'p355'!important; }
+
+@font-face { font-family: 'p356'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/356.ttf') format('truetype'); }
+.p356 { font-family: 'p356'!important; }
+
+@font-face { font-family: 'p357'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/357.ttf') format('truetype'); }
+.p357 { font-family: 'p357'!important; }
+
+@font-face { font-family: 'p358'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/358.ttf') format('truetype'); }
+.p358 { font-family: 'p358'!important; }
+
+@font-face { font-family: 'p359'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/359.ttf') format('truetype'); }
+.p359 { font-family: 'p359'!important; }
+
+@font-face { font-family: 'p360'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/360.ttf') format('truetype'); }
+.p360 { font-family: 'p360'!important; }
+
+@font-face { font-family: 'p361'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/361.ttf') format('truetype'); }
+.p361 { font-family: 'p361'!important; }
+
+@font-face { font-family: 'p362'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/362.ttf') format('truetype'); }
+.p362 { font-family: 'p362'!important; }
+
+@font-face { font-family: 'p363'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/363.ttf') format('truetype'); }
+.p363 { font-family: 'p363'!important; }
+
+@font-face { font-family: 'p364'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/364.ttf') format('truetype'); }
+.p364 { font-family: 'p364'!important; }
+
+@font-face { font-family: 'p365'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/365.ttf') format('truetype'); }
+.p365 { font-family: 'p365'!important; }
+
+@font-face { font-family: 'p366'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/366.ttf') format('truetype'); }
+.p366 { font-family: 'p366'!important; }
+
+@font-face { font-family: 'p367'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/367.ttf') format('truetype'); }
+.p367 { font-family: 'p367'!important; }
+
+@font-face { font-family: 'p368'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/368.ttf') format('truetype'); }
+.p368 { font-family: 'p368'!important; }
+
+@font-face { font-family: 'p369'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/369.ttf') format('truetype'); }
+.p369 { font-family: 'p369'!important; }
+
+@font-face { font-family: 'p370'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/370.ttf') format('truetype'); }
+.p370 { font-family: 'p370'!important; }
+
+@font-face { font-family: 'p371'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/371.ttf') format('truetype'); }
+.p371 { font-family: 'p371'!important; }
+
+@font-face { font-family: 'p372'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/372.ttf') format('truetype'); }
+.p372 { font-family: 'p372'!important; }
+
+@font-face { font-family: 'p373'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/373.ttf') format('truetype'); }
+.p373 { font-family: 'p373'!important; }
+
+@font-face { font-family: 'p374'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/374.ttf') format('truetype'); }
+.p374 { font-family: 'p374'!important; }
+
+@font-face { font-family: 'p375'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/375.ttf') format('truetype'); }
+.p375 { font-family: 'p375'!important; }
+
+@font-face { font-family: 'p376'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/376.ttf') format('truetype'); }
+.p376 { font-family: 'p376'!important; }
+
+@font-face { font-family: 'p377'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/377.ttf') format('truetype'); }
+.p377 { font-family: 'p377'!important; }
+
+@font-face { font-family: 'p378'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/378.ttf') format('truetype'); }
+.p378 { font-family: 'p378'!important; }
+
+@font-face { font-family: 'p379'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/379.ttf') format('truetype'); }
+.p379 { font-family: 'p379'!important; }
+
+@font-face { font-family: 'p380'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/380.ttf') format('truetype'); }
+.p380 { font-family: 'p380'!important; }
+
+@font-face { font-family: 'p381'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/381.ttf') format('truetype'); }
+.p381 { font-family: 'p381'!important; }
+
+@font-face { font-family: 'p382'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/382.ttf') format('truetype'); }
+.p382 { font-family: 'p382'!important; }
+
+@font-face { font-family: 'p383'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/383.ttf') format('truetype'); }
+.p383 { font-family: 'p383'!important; }
+
+@font-face { font-family: 'p384'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/384.ttf') format('truetype'); }
+.p384 { font-family: 'p384'!important; }
+
+@font-face { font-family: 'p385'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/385.ttf') format('truetype'); }
+.p385 { font-family: 'p385'!important; }
+
+@font-face { font-family: 'p386'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/386.ttf') format('truetype'); }
+.p386 { font-family: 'p386'!important; }
+
+@font-face { font-family: 'p387'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/387.ttf') format('truetype'); }
+.p387 { font-family: 'p387'!important; }
+
+@font-face { font-family: 'p388'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/388.ttf') format('truetype'); }
+.p388 { font-family: 'p388'!important; }
+
+@font-face { font-family: 'p389'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/389.ttf') format('truetype'); }
+.p389 { font-family: 'p389'!important; }
+
+@font-face { font-family: 'p390'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/390.ttf') format('truetype'); }
+.p390 { font-family: 'p390'!important; }
+
+@font-face { font-family: 'p391'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/391.ttf') format('truetype'); }
+.p391 { font-family: 'p391'!important; }
+
+@font-face { font-family: 'p392'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/392.ttf') format('truetype'); }
+.p392 { font-family: 'p392'!important; }
+
+@font-face { font-family: 'p393'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/393.ttf') format('truetype'); }
+.p393 { font-family: 'p393'!important; }
+
+@font-face { font-family: 'p394'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/394.ttf') format('truetype'); }
+.p394 { font-family: 'p394'!important; }
+
+@font-face { font-family: 'p395'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/395.ttf') format('truetype'); }
+.p395 { font-family: 'p395'!important; }
+
+@font-face { font-family: 'p396'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/396.ttf') format('truetype'); }
+.p396 { font-family: 'p396'!important; }
+
+@font-face { font-family: 'p397'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/397.ttf') format('truetype'); }
+.p397 { font-family: 'p397'!important; }
+
+@font-face { font-family: 'p398'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/398.ttf') format('truetype'); }
+.p398 { font-family: 'p398'!important; }
+
+@font-face { font-family: 'p399'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/399.ttf') format('truetype'); }
+.p399 { font-family: 'p399'!important; }
+
+@font-face { font-family: 'p400'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/400.ttf') format('truetype'); }
+.p400 { font-family: 'p400'!important; }
+
+@font-face { font-family: 'p401'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/401.ttf') format('truetype'); }
+.p401 { font-family: 'p401'!important; }
+
+@font-face { font-family: 'p402'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/402.ttf') format('truetype'); }
+.p402 { font-family: 'p402'!important; }
+
+@font-face { font-family: 'p403'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/403.ttf') format('truetype'); }
+.p403 { font-family: 'p403'!important; }
+
+@font-face { font-family: 'p404'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/404.ttf') format('truetype'); }
+.p404 { font-family: 'p404'!important; }
+
+@font-face { font-family: 'p405'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/405.ttf') format('truetype'); }
+.p405 { font-family: 'p405'!important; }
+
+@font-face { font-family: 'p406'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/406.ttf') format('truetype'); }
+.p406 { font-family: 'p406'!important; }
+
+@font-face { font-family: 'p407'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/407.ttf') format('truetype'); }
+.p407 { font-family: 'p407'!important; }
+
+@font-face { font-family: 'p408'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/408.ttf') format('truetype'); }
+.p408 { font-family: 'p408'!important; }
+
+@font-face { font-family: 'p409'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/409.ttf') format('truetype'); }
+.p409 { font-family: 'p409'!important; }
+
+@font-face { font-family: 'p410'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/410.ttf') format('truetype'); }
+.p410 { font-family: 'p410'!important; }
+
+@font-face { font-family: 'p411'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/411.ttf') format('truetype'); }
+.p411 { font-family: 'p411'!important; }
+
+@font-face { font-family: 'p412'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/412.ttf') format('truetype'); }
+.p412 { font-family: 'p412'!important; }
+
+@font-face { font-family: 'p413'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/413.ttf') format('truetype'); }
+.p413 { font-family: 'p413'!important; }
+
+@font-face { font-family: 'p414'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/414.ttf') format('truetype'); }
+.p414 { font-family: 'p414'!important; }
+
+@font-face { font-family: 'p415'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/415.ttf') format('truetype'); }
+.p415 { font-family: 'p415'!important; }
+
+@font-face { font-family: 'p416'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/416.ttf') format('truetype'); }
+.p416 { font-family: 'p416'!important; }
+
+@font-face { font-family: 'p417'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/417.ttf') format('truetype'); }
+.p417 { font-family: 'p417'!important; }
+
+@font-face { font-family: 'p418'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/418.ttf') format('truetype'); }
+.p418 { font-family: 'p418'!important; }
+
+@font-face { font-family: 'p419'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/419.ttf') format('truetype'); }
+.p419 { font-family: 'p419'!important; }
+
+@font-face { font-family: 'p420'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/420.ttf') format('truetype'); }
+.p420 { font-family: 'p420'!important; }
+
+@font-face { font-family: 'p421'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/421.ttf') format('truetype'); }
+.p421 { font-family: 'p421'!important; }
+
+@font-face { font-family: 'p422'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/422.ttf') format('truetype'); }
+.p422 { font-family: 'p422'!important; }
+
+@font-face { font-family: 'p423'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/423.ttf') format('truetype'); }
+.p423 { font-family: 'p423'!important; }
+
+@font-face { font-family: 'p424'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/424.ttf') format('truetype'); }
+.p424 { font-family: 'p424'!important; }
+
+@font-face { font-family: 'p425'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/425.ttf') format('truetype'); }
+.p425 { font-family: 'p425'!important; }
+
+@font-face { font-family: 'p426'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/426.ttf') format('truetype'); }
+.p426 { font-family: 'p426'!important; }
+
+@font-face { font-family: 'p427'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/427.ttf') format('truetype'); }
+.p427 { font-family: 'p427'!important; }
+
+@font-face { font-family: 'p428'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/428.ttf') format('truetype'); }
+.p428 { font-family: 'p428'!important; }
+
+@font-face { font-family: 'p429'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/429.ttf') format('truetype'); }
+.p429 { font-family: 'p429'!important; }
+
+@font-face { font-family: 'p430'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/430.ttf') format('truetype'); }
+.p430 { font-family: 'p430'!important; }
+
+@font-face { font-family: 'p431'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/431.ttf') format('truetype'); }
+.p431 { font-family: 'p431'!important; }
+
+@font-face { font-family: 'p432'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/432.ttf') format('truetype'); }
+.p432 { font-family: 'p432'!important; }
+
+@font-face { font-family: 'p433'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/433.ttf') format('truetype'); }
+.p433 { font-family: 'p433'!important; }
+
+@font-face { font-family: 'p434'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/434.ttf') format('truetype'); }
+.p434 { font-family: 'p434'!important; }
+
+@font-face { font-family: 'p435'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/435.ttf') format('truetype'); }
+.p435 { font-family: 'p435'!important; }
+
+@font-face { font-family: 'p436'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/436.ttf') format('truetype'); }
+.p436 { font-family: 'p436'!important; }
+
+@font-face { font-family: 'p437'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/437.ttf') format('truetype'); }
+.p437 { font-family: 'p437'!important; }
+
+@font-face { font-family: 'p438'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/438.ttf') format('truetype'); }
+.p438 { font-family: 'p438'!important; }
+
+@font-face { font-family: 'p439'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/439.ttf') format('truetype'); }
+.p439 { font-family: 'p439'!important; }
+
+@font-face { font-family: 'p440'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/440.ttf') format('truetype'); }
+.p440 { font-family: 'p440'!important; }
+
+@font-face { font-family: 'p441'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/441.ttf') format('truetype'); }
+.p441 { font-family: 'p441'!important; }
+
+@font-face { font-family: 'p442'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/442.ttf') format('truetype'); }
+.p442 { font-family: 'p442'!important; }
+
+@font-face { font-family: 'p443'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/443.ttf') format('truetype'); }
+.p443 { font-family: 'p443'!important; }
+
+@font-face { font-family: 'p444'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/444.ttf') format('truetype'); }
+.p444 { font-family: 'p444'!important; }
+
+@font-face { font-family: 'p445'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/445.ttf') format('truetype'); }
+.p445 { font-family: 'p445'!important; }
+
+@font-face { font-family: 'p446'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/446.ttf') format('truetype'); }
+.p446 { font-family: 'p446'!important; }
+
+@font-face { font-family: 'p447'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/447.ttf') format('truetype'); }
+.p447 { font-family: 'p447'!important; }
+
+@font-face { font-family: 'p448'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/448.ttf') format('truetype'); }
+.p448 { font-family: 'p448'!important; }
+
+@font-face { font-family: 'p449'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/449.ttf') format('truetype'); }
+.p449 { font-family: 'p449'!important; }
+
+@font-face { font-family: 'p450'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/450.ttf') format('truetype'); }
+.p450 { font-family: 'p450'!important; }
+
+@font-face { font-family: 'p451'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/451.ttf') format('truetype'); }
+.p451 { font-family: 'p451'!important; }
+
+@font-face { font-family: 'p452'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/452.ttf') format('truetype'); }
+.p452 { font-family: 'p452'!important; }
+
+@font-face { font-family: 'p453'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/453.ttf') format('truetype'); }
+.p453 { font-family: 'p453'!important; }
+
+@font-face { font-family: 'p454'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/454.ttf') format('truetype'); }
+.p454 { font-family: 'p454'!important; }
+
+@font-face { font-family: 'p455'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/455.ttf') format('truetype'); }
+.p455 { font-family: 'p455'!important; }
+
+@font-face { font-family: 'p456'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/456.ttf') format('truetype'); }
+.p456 { font-family: 'p456'!important; }
+
+@font-face { font-family: 'p457'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/457.ttf') format('truetype'); }
+.p457 { font-family: 'p457'!important; }
+
+@font-face { font-family: 'p458'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/458.ttf') format('truetype'); }
+.p458 { font-family: 'p458'!important; }
+
+@font-face { font-family: 'p459'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/459.ttf') format('truetype'); }
+.p459 { font-family: 'p459'!important; }
+
+@font-face { font-family: 'p460'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/460.ttf') format('truetype'); }
+.p460 { font-family: 'p460'!important; }
+
+@font-face { font-family: 'p461'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/461.ttf') format('truetype'); }
+.p461 { font-family: 'p461'!important; }
+
+@font-face { font-family: 'p462'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/462.ttf') format('truetype'); }
+.p462 { font-family: 'p462'!important; }
+
+@font-face { font-family: 'p463'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/463.ttf') format('truetype'); }
+.p463 { font-family: 'p463'!important; }
+
+@font-face { font-family: 'p464'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/464.ttf') format('truetype'); }
+.p464 { font-family: 'p464'!important; }
+
+@font-face { font-family: 'p465'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/465.ttf') format('truetype'); }
+.p465 { font-family: 'p465'!important; }
+
+@font-face { font-family: 'p466'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/466.ttf') format('truetype'); }
+.p466 { font-family: 'p466'!important; }
+
+@font-face { font-family: 'p467'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/467.ttf') format('truetype'); }
+.p467 { font-family: 'p467'!important; }
+
+@font-face { font-family: 'p468'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/468.ttf') format('truetype'); }
+.p468 { font-family: 'p468'!important; }
+
+@font-face { font-family: 'p469'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/469.ttf') format('truetype'); }
+.p469 { font-family: 'p469'!important; }
+
+@font-face { font-family: 'p470'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/470.ttf') format('truetype'); }
+.p470 { font-family: 'p470'!important; }
+
+@font-face { font-family: 'p471'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/471.ttf') format('truetype'); }
+.p471 { font-family: 'p471'!important; }
+
+@font-face { font-family: 'p472'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/472.ttf') format('truetype'); }
+.p472 { font-family: 'p472'!important; }
+
+@font-face { font-family: 'p473'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/473.ttf') format('truetype'); }
+.p473 { font-family: 'p473'!important; }
+
+@font-face { font-family: 'p474'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/474.ttf') format('truetype'); }
+.p474 { font-family: 'p474'!important; }
+
+@font-face { font-family: 'p475'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/475.ttf') format('truetype'); }
+.p475 { font-family: 'p475'!important; }
+
+@font-face { font-family: 'p476'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/476.ttf') format('truetype'); }
+.p476 { font-family: 'p476'!important; }
+
+@font-face { font-family: 'p477'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/477.ttf') format('truetype'); }
+.p477 { font-family: 'p477'!important; }
+
+@font-face { font-family: 'p478'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/478.ttf') format('truetype'); }
+.p478 { font-family: 'p478'!important; }
+
+@font-face { font-family: 'p479'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/479.ttf') format('truetype'); }
+.p479 { font-family: 'p479'!important; }
+
+@font-face { font-family: 'p480'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/480.ttf') format('truetype'); }
+.p480 { font-family: 'p480'!important; }
+
+@font-face { font-family: 'p481'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/481.ttf') format('truetype'); }
+.p481 { font-family: 'p481'!important; }
+
+@font-face { font-family: 'p482'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/482.ttf') format('truetype'); }
+.p482 { font-family: 'p482'!important; }
+
+@font-face { font-family: 'p483'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/483.ttf') format('truetype'); }
+.p483 { font-family: 'p483'!important; }
+
+@font-face { font-family: 'p484'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/484.ttf') format('truetype'); }
+.p484 { font-family: 'p484'!important; }
+
+@font-face { font-family: 'p485'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/485.ttf') format('truetype'); }
+.p485 { font-family: 'p485'!important; }
+
+@font-face { font-family: 'p486'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/486.ttf') format('truetype'); }
+.p486 { font-family: 'p486'!important; }
+
+@font-face { font-family: 'p487'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/487.ttf') format('truetype'); }
+.p487 { font-family: 'p487'!important; }
+
+@font-face { font-family: 'p488'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/488.ttf') format('truetype'); }
+.p488 { font-family: 'p488'!important; }
+
+@font-face { font-family: 'p489'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/489.ttf') format('truetype'); }
+.p489 { font-family: 'p489'!important; }
+
+@font-face { font-family: 'p490'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/490.ttf') format('truetype'); }
+.p490 { font-family: 'p490'!important; }
+
+@font-face { font-family: 'p491'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/491.ttf') format('truetype'); }
+.p491 { font-family: 'p491'!important; }
+
+@font-face { font-family: 'p492'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/492.ttf') format('truetype'); }
+.p492 { font-family: 'p492'!important; }
+
+@font-face { font-family: 'p493'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/493.ttf') format('truetype'); }
+.p493 { font-family: 'p493'!important; }
+
+@font-face { font-family: 'p494'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/494.ttf') format('truetype'); }
+.p494 { font-family: 'p494'!important; }
+
+@font-face { font-family: 'p495'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/495.ttf') format('truetype'); }
+.p495 { font-family: 'p495'!important; }
+
+@font-face { font-family: 'p496'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/496.ttf') format('truetype'); }
+.p496 { font-family: 'p496'!important; }
+
+@font-face { font-family: 'p497'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/497.ttf') format('truetype'); }
+.p497 { font-family: 'p497'!important; }
+
+@font-face { font-family: 'p498'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/498.ttf') format('truetype'); }
+.p498 { font-family: 'p498'!important; }
+
+@font-face { font-family: 'p499'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/499.ttf') format('truetype'); }
+.p499 { font-family: 'p499'!important; }
+
+@font-face { font-family: 'p500'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/500.ttf') format('truetype'); }
+.p500 { font-family: 'p500'!important; }
+
+@font-face { font-family: 'p501'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/501.ttf') format('truetype'); }
+.p501 { font-family: 'p501'!important; }
+
+@font-face { font-family: 'p502'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/502.ttf') format('truetype'); }
+.p502 { font-family: 'p502'!important; }
+
+@font-face { font-family: 'p503'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/503.ttf') format('truetype'); }
+.p503 { font-family: 'p503'!important; }
+
+@font-face { font-family: 'p504'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/504.ttf') format('truetype'); }
+.p504 { font-family: 'p504'!important; }
+
+@font-face { font-family: 'p505'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/505.ttf') format('truetype'); }
+.p505 { font-family: 'p505'!important; }
+
+@font-face { font-family: 'p506'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/506.ttf') format('truetype'); }
+.p506 { font-family: 'p506'!important; }
+
+@font-face { font-family: 'p507'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/507.ttf') format('truetype'); }
+.p507 { font-family: 'p507'!important; }
+
+@font-face { font-family: 'p508'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/508.ttf') format('truetype'); }
+.p508 { font-family: 'p508'!important; }
+
+@font-face { font-family: 'p509'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/509.ttf') format('truetype'); }
+.p509 { font-family: 'p509'!important; }
+
+@font-face { font-family: 'p510'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/510.ttf') format('truetype'); }
+.p510 { font-family: 'p510'!important; }
+
+@font-face { font-family: 'p511'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/511.ttf') format('truetype'); }
+.p511 { font-family: 'p511'!important; }
+
+@font-face { font-family: 'p512'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/512.ttf') format('truetype'); }
+.p512 { font-family: 'p512'!important; }
+
+@font-face { font-family: 'p513'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/513.ttf') format('truetype'); }
+.p513 { font-family: 'p513'!important; }
+
+@font-face { font-family: 'p514'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/514.ttf') format('truetype'); }
+.p514 { font-family: 'p514'!important; }
+
+@font-face { font-family: 'p515'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/515.ttf') format('truetype'); }
+.p515 { font-family: 'p515'!important; }
+
+@font-face { font-family: 'p516'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/516.ttf') format('truetype'); }
+.p516 { font-family: 'p516'!important; }
+
+@font-face { font-family: 'p517'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/517.ttf') format('truetype'); }
+.p517 { font-family: 'p517'!important; }
+
+@font-face { font-family: 'p518'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/518.ttf') format('truetype'); }
+.p518 { font-family: 'p518'!important; }
+
+@font-face { font-family: 'p519'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/519.ttf') format('truetype'); }
+.p519 { font-family: 'p519'!important; }
+
+@font-face { font-family: 'p520'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/520.ttf') format('truetype'); }
+.p520 { font-family: 'p520'!important; }
+
+@font-face { font-family: 'p521'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/521.ttf') format('truetype'); }
+.p521 { font-family: 'p521'!important; }
+
+@font-face { font-family: 'p522'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/522.ttf') format('truetype'); }
+.p522 { font-family: 'p522'!important; }
+
+@font-face { font-family: 'p523'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/523.ttf') format('truetype'); }
+.p523 { font-family: 'p523'!important; }
+
+@font-face { font-family: 'p524'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/524.ttf') format('truetype'); }
+.p524 { font-family: 'p524'!important; }
+
+@font-face { font-family: 'p525'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/525.ttf') format('truetype'); }
+.p525 { font-family: 'p525'!important; }
+
+@font-face { font-family: 'p526'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/526.ttf') format('truetype'); }
+.p526 { font-family: 'p526'!important; }
+
+@font-face { font-family: 'p527'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/527.ttf') format('truetype'); }
+.p527 { font-family: 'p527'!important; }
+
+@font-face { font-family: 'p528'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/528.ttf') format('truetype'); }
+.p528 { font-family: 'p528'!important; }
+
+@font-face { font-family: 'p529'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/529.ttf') format('truetype'); }
+.p529 { font-family: 'p529'!important; }
+
+@font-face { font-family: 'p530'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/530.ttf') format('truetype'); }
+.p530 { font-family: 'p530'!important; }
+
+@font-face { font-family: 'p531'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/531.ttf') format('truetype'); }
+.p531 { font-family: 'p531'!important; }
+
+@font-face { font-family: 'p532'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/532.ttf') format('truetype'); }
+.p532 { font-family: 'p532'!important; }
+
+@font-face { font-family: 'p533'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/533.ttf') format('truetype'); }
+.p533 { font-family: 'p533'!important; }
+
+@font-face { font-family: 'p534'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/534.ttf') format('truetype'); }
+.p534 { font-family: 'p534'!important; }
+
+@font-face { font-family: 'p535'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/535.ttf') format('truetype'); }
+.p535 { font-family: 'p535'!important; }
+
+@font-face { font-family: 'p536'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/536.ttf') format('truetype'); }
+.p536 { font-family: 'p536'!important; }
+
+@font-face { font-family: 'p537'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/537.ttf') format('truetype'); }
+.p537 { font-family: 'p537'!important; }
+
+@font-face { font-family: 'p538'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/538.ttf') format('truetype'); }
+.p538 { font-family: 'p538'!important; }
+
+@font-face { font-family: 'p539'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/539.ttf') format('truetype'); }
+.p539 { font-family: 'p539'!important; }
+
+@font-face { font-family: 'p540'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/540.ttf') format('truetype'); }
+.p540 { font-family: 'p540'!important; }
+
+@font-face { font-family: 'p541'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/541.ttf') format('truetype'); }
+.p541 { font-family: 'p541'!important; }
+
+@font-face { font-family: 'p542'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/542.ttf') format('truetype'); }
+.p542 { font-family: 'p542'!important; }
+
+@font-face { font-family: 'p543'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/543.ttf') format('truetype'); }
+.p543 { font-family: 'p543'!important; }
+
+@font-face { font-family: 'p544'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/544.ttf') format('truetype'); }
+.p544 { font-family: 'p544'!important; }
+
+@font-face { font-family: 'p545'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/545.ttf') format('truetype'); }
+.p545 { font-family: 'p545'!important; }
+
+@font-face { font-family: 'p546'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/546.ttf') format('truetype'); }
+.p546 { font-family: 'p546'!important; }
+
+@font-face { font-family: 'p547'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/547.ttf') format('truetype'); }
+.p547 { font-family: 'p547'!important; }
+
+@font-face { font-family: 'p548'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/548.ttf') format('truetype'); }
+.p548 { font-family: 'p548'!important; }
+
+@font-face { font-family: 'p549'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/549.ttf') format('truetype'); }
+.p549 { font-family: 'p549'!important; }
+
+@font-face { font-family: 'p550'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/550.ttf') format('truetype'); }
+.p550 { font-family: 'p550'!important; }
+
+@font-face { font-family: 'p551'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/551.ttf') format('truetype'); }
+.p551 { font-family: 'p551'!important; }
+
+@font-face { font-family: 'p552'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/552.ttf') format('truetype'); }
+.p552 { font-family: 'p552'!important; }
+
+@font-face { font-family: 'p553'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/553.ttf') format('truetype'); }
+.p553 { font-family: 'p553'!important; }
+
+@font-face { font-family: 'p554'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/554.ttf') format('truetype'); }
+.p554 { font-family: 'p554'!important; }
+
+@font-face { font-family: 'p555'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/555.ttf') format('truetype'); }
+.p555 { font-family: 'p555'!important; }
+
+@font-face { font-family: 'p556'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/556.ttf') format('truetype'); }
+.p556 { font-family: 'p556'!important; }
+
+@font-face { font-family: 'p557'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/557.ttf') format('truetype'); }
+.p557 { font-family: 'p557'!important; }
+
+@font-face { font-family: 'p558'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/558.ttf') format('truetype'); }
+.p558 { font-family: 'p558'!important; }
+
+@font-face { font-family: 'p559'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/559.ttf') format('truetype'); }
+.p559 { font-family: 'p559'!important; }
+
+@font-face { font-family: 'p560'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/560.ttf') format('truetype'); }
+.p560 { font-family: 'p560'!important; }
+
+@font-face { font-family: 'p561'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/561.ttf') format('truetype'); }
+.p561 { font-family: 'p561'!important; }
+
+@font-face { font-family: 'p562'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/562.ttf') format('truetype'); }
+.p562 { font-family: 'p562'!important; }
+
+@font-face { font-family: 'p563'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/563.ttf') format('truetype'); }
+.p563 { font-family: 'p563'!important; }
+
+@font-face { font-family: 'p564'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/564.ttf') format('truetype'); }
+.p564 { font-family: 'p564'!important; }
+
+@font-face { font-family: 'p565'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/565.ttf') format('truetype'); }
+.p565 { font-family: 'p565'!important; }
+
+@font-face { font-family: 'p566'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/566.ttf') format('truetype'); }
+.p566 { font-family: 'p566'!important; }
+
+@font-face { font-family: 'p567'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/567.ttf') format('truetype'); }
+.p567 { font-family: 'p567'!important; }
+
+@font-face { font-family: 'p568'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/568.ttf') format('truetype'); }
+.p568 { font-family: 'p568'!important; }
+
+@font-face { font-family: 'p569'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/569.ttf') format('truetype'); }
+.p569 { font-family: 'p569'!important; }
+
+@font-face { font-family: 'p570'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/570.ttf') format('truetype'); }
+.p570 { font-family: 'p570'!important; }
+
+@font-face { font-family: 'p571'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/571.ttf') format('truetype'); }
+.p571 { font-family: 'p571'!important; }
+
+@font-face { font-family: 'p572'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/572.ttf') format('truetype'); }
+.p572 { font-family: 'p572'!important; }
+
+@font-face { font-family: 'p573'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/573.ttf') format('truetype'); }
+.p573 { font-family: 'p573'!important; }
+
+@font-face { font-family: 'p574'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/574.ttf') format('truetype'); }
+.p574 { font-family: 'p574'!important; }
+
+@font-face { font-family: 'p575'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/575.ttf') format('truetype'); }
+.p575 { font-family: 'p575'!important; }
+
+@font-face { font-family: 'p576'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/576.ttf') format('truetype'); }
+.p576 { font-family: 'p576'!important; }
+
+@font-face { font-family: 'p577'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/577.ttf') format('truetype'); }
+.p577 { font-family: 'p577'!important; }
+
+@font-face { font-family: 'p578'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/578.ttf') format('truetype'); }
+.p578 { font-family: 'p578'!important; }
+
+@font-face { font-family: 'p579'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/579.ttf') format('truetype'); }
+.p579 { font-family: 'p579'!important; }
+
+@font-face { font-family: 'p580'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/580.ttf') format('truetype'); }
+.p580 { font-family: 'p580'!important; }
+
+@font-face { font-family: 'p581'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/581.ttf') format('truetype'); }
+.p581 { font-family: 'p581'!important; }
+
+@font-face { font-family: 'p582'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/582.ttf') format('truetype'); }
+.p582 { font-family: 'p582'!important; }
+
+@font-face { font-family: 'p583'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/583.ttf') format('truetype'); }
+.p583 { font-family: 'p583'!important; }
+
+@font-face { font-family: 'p584'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/584.ttf') format('truetype'); }
+.p584 { font-family: 'p584'!important; }
+
+@font-face { font-family: 'p585'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/585.ttf') format('truetype'); }
+.p585 { font-family: 'p585'!important; }
+
+@font-face { font-family: 'p586'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/586.ttf') format('truetype'); }
+.p586 { font-family: 'p586'!important; }
+
+@font-face { font-family: 'p587'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/587.ttf') format('truetype'); }
+.p587 { font-family: 'p587'!important; }
+
+@font-face { font-family: 'p588'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/588.ttf') format('truetype'); }
+.p588 { font-family: 'p588'!important; }
+
+@font-face { font-family: 'p589'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/589.ttf') format('truetype'); }
+.p589 { font-family: 'p589'!important; }
+
+@font-face { font-family: 'p590'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/590.ttf') format('truetype'); }
+.p590 { font-family: 'p590'!important; }
+
+@font-face { font-family: 'p591'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/591.ttf') format('truetype'); }
+.p591 { font-family: 'p591'!important; }
+
+@font-face { font-family: 'p592'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/592.ttf') format('truetype'); }
+.p592 { font-family: 'p592'!important; }
+
+@font-face { font-family: 'p593'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/593.ttf') format('truetype'); }
+.p593 { font-family: 'p593'!important; }
+
+@font-face { font-family: 'p594'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/594.ttf') format('truetype'); }
+.p594 { font-family: 'p594'!important; }
+
+@font-face { font-family: 'p595'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/595.ttf') format('truetype'); }
+.p595 { font-family: 'p595'!important; }
+
+@font-face { font-family: 'p596'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/596.ttf') format('truetype'); }
+.p596 { font-family: 'p596'!important; }
+
+@font-face { font-family: 'p597'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/597.ttf') format('truetype'); }
+.p597 { font-family: 'p597'!important; }
+
+@font-face { font-family: 'p598'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/598.ttf') format('truetype'); }
+.p598 { font-family: 'p598'!important; }
+
+@font-face { font-family: 'p599'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/599.ttf') format('truetype'); }
+.p599 { font-family: 'p599'!important; }
+
+@font-face { font-family: 'p600'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/600.ttf') format('truetype'); }
+.p600 { font-family: 'p600'!important; }
+
+@font-face { font-family: 'p601'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/601.ttf') format('truetype'); }
+.p601 { font-family: 'p601'!important; }
+
+@font-face { font-family: 'p602'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/602.ttf') format('truetype'); }
+.p602 { font-family: 'p602'!important; }
+
+@font-face { font-family: 'p603'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/603.ttf') format('truetype'); }
+.p603 { font-family: 'p603'!important; }
+
+@font-face { font-family: 'p604'; src: url('https://beta.quranwbw.com/assets/fonts/uthmani/604.ttf') format('truetype'); }
+.p604 { font-family: 'p604'!important; }
